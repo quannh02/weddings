@@ -1042,8 +1042,8 @@ body {
 }
 
 .avatar {
-  width: 120px;
-  height: 120px;
+  width: 320px;
+  height: 320px;
   border-radius: 50%;
   border: 5px solid #fff;
   box-shadow: 0px 3px 10px rgba(0, 0, 0, 0.2);
@@ -1094,7 +1094,6 @@ body {
     height: 200px;
     background-size: auto 100%;
   }
-
   .username .icon {
     width: 100%;
     margin: 20px auto;
@@ -1102,7 +1101,6 @@ body {
   .username .icon img {
     width: 60px;
   }
-
   .box-invitation, .bottom, .content-frontend {
     position: relative;
     top: 0px;
